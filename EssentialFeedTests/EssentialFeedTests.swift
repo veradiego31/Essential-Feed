@@ -33,3 +33,10 @@ final class EssentialFeedTests: XCTestCase {
     }
 
 }
+
+class EssentialAdapter {
+    
+    func load() {
+        
+    }
+}
